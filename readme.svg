@@ -73,10 +73,4 @@
     <text x="200" y="140" font-family="Arial" font-size="8" font-weight="" text-anchor="middle" fill="#000000">
       Python Pytorch HTML CSS Javascript TypeScript React Next.js
     </text>
-    <text x="200" y="160" font-family="Arial" font-size="8" font-weight="bold" text-anchor="middle" fill="#000000">
-      Products
-    </text>
-    <text x="200" y="170" font-family="Arial" font-size="8" font-weight="" text-anchor="middle" fill="#000000">
-      subnect.com
-    </text>
 </svg>
