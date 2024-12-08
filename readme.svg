@@ -67,10 +67,10 @@
     <text x="200" y="110" font-family="Arial" font-size="8" font-weight="" text-anchor="middle" fill="#000000">
       WebDeveloper BackendDeveloper StockTrader ML engineer
     </text>
-    <text x="200" y="130" font-family="Arial" font-size="8" font-weight="bold" text-anchor="middle" fill="#000000">
+    <text x="200" y="140" font-family="Arial" font-size="8" font-weight="bold" text-anchor="middle" fill="#000000">
       My skill
     </text>
-    <text x="200" y="140" font-family="Arial" font-size="8" font-weight="" text-anchor="middle" fill="#000000">
+    <text x="200" y="150" font-family="Arial" font-size="8" font-weight="" text-anchor="middle" fill="#000000">
       Python Pytorch HTML CSS Javascript TypeScript React Next.js
     </text>
 </svg>
